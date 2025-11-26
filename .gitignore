@@ -22,6 +22,10 @@
 #!/Binaries/Win64/
 #!/Binaries/Win64/**
 
+# Images for GitHub README.md file
+!/Images/
+!/Images/*
+
 # Data Folders
 !/Build/
 !/Build/**
