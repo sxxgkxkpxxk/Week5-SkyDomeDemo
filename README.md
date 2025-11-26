@@ -7,6 +7,10 @@
 
 ## Preview
 
+### BP_SkyDome 액터 스크린샷
+
+![Screenshot_BP_SkyDome_Actor](Images/skydome_actor.png)
+
 ### L_Week5SkyDomeDemo 레벨 스크린샷
 
 ![Screenshot_L_Week5SkyDomeDemo_Scene](Images/skydome_scene.png)
