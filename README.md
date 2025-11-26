@@ -1,4 +1,4 @@
-# Sky Dome Blueprint (BP_SkyDome) Demo
+# Sky Dome Blueprint (BP_SkyDome) Demo v1.0.0
 
 언리얼 라이팅 캠프에서 제작한 스카이 돔(Sky Dome) 기반의 HDRI 환경을 쉽게 변경하고 제어하기 위해 제작된 **BP_SkyDome 블루프린트 데모**입니다.  
 스카이 돔의 HDRI 텍스처 변경, 밝기 조절, 색상 틴트, 스케일 조절, SkyLight Recapture 연동 기능 등을 제공합니다.
@@ -7,17 +7,17 @@
 
 ## Preview
 
-### Main Scene
+### L_Week5SkyDomeDemo 레벨 스크린샷
 
 ![Screenshot_L_Week5SkyDomeDemo_Scene](Images/skydome_scene.png)
 
-### Properties
+### 프로퍼티(Properties)
 
 ![Screenshot_BP_SkyDome_Properties](Images/skydome_properties.png)
 
 ---
 
-## Blueprint Overview
+## 블루프린트 변수 소개(Blueprint Variables Overview)
 
 변수는 총 세 가지 카테고리로 구성됩니다.
 
@@ -43,16 +43,16 @@
 
 ---
 
-## Requirements
+## 요구사항(Requirements)
 
-| 항목                         | 내용        |
-| ---------------------------- | ----------- |
-| Unreal Engine Version        | **5.6.1**   |
-| OS / Development Environment | **Windows** |
+| 항목                      | 내용        |
+| ------------------------- | ----------- |
+| 언리얼 엔진 버전          | **5.6.1**   |
+| 운영체제(OS) 및 개발 환경 | **Windows** |
 
 ---
 
-## Installation & Usage
+## 설치 및 사용법(Installation & Usage)
 
 1. 프로젝트 또는 블루프린트 어셋을 다운로드합니다.
 2. 언리얼 프로젝트에 임포트합니다.
@@ -61,21 +61,22 @@
 
 ---
 
-## Downloads
+## 다운로드(Downloads)
 
-| 항목                              | 링크                                                                               |
-| --------------------------------- | ---------------------------------------------------------------------------------- |
-| **Sky Dome Blueprint Project**    | https://drive.google.com/file/d/1L2xN6WbVYQbwEjCeUXYfBM7pGwzztAII/view?usp=sharing |
-| **Sky Dome Blueprint Asset Only** | https://drive.google.com/file/d/1FrMmNNsxjEddlnZO3P-EGZtGpzGDCXrP/view?usp=sharing |
+| 항목                       | 링크                                                                               |
+| -------------------------- | ---------------------------------------------------------------------------------- |
+| **프로젝트 전체 다운로드** | https://drive.google.com/file/d/1L2xN6WbVYQbwEjCeUXYfBM7pGwzztAII/view?usp=sharing |
+| **블루프린트만 다운로드**  | https://drive.google.com/file/d/1FrMmNNsxjEddlnZO3P-EGZtGpzGDCXrP/view?usp=sharing |
 
 ---
 
-## License
+## 라이선스(License)
 
 본 프로젝트는 **MIT License** 하에 제공됩니다.
 
 ---
 
-## Contact
+## 연락처(Contact)
 
-sungkukshawnpark@gmail.com
+디스코드: sungkukpark
+이메일: sungkukshawnpark@gmail.com
