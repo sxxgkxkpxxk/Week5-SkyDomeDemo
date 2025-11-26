@@ -74,12 +74,6 @@
 
 ---
 
-## 라이선스(License)
-
-본 프로젝트는 **MIT License** 하에 제공됩니다.
-
----
-
 ## 연락처(Contact)
 
 디스코드: sungkukpark
